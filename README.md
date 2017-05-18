@@ -1,0 +1,2 @@
+# fireivacuation
+  The Fire iVacuation system is a revolutionary idea designed to save lives during fire based emergency situations in buildings.  During a fire it provides evacuees with information on the best route to escape the fire and get to the nearest fire escape. In tandem it uploads live statistics of the fire via the internet onto a web platform where the local fire department can access it.
